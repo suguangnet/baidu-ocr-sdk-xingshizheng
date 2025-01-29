@@ -18,7 +18,7 @@
 
 ### 3️⃣ **SDK 交互方式**
 - 经过修改的百度行驶证离线 SDK，可以使用 `xingshizhengsdk.exe` **直接对图片进行识别**，这样配合Python调用。
-  ####百度行驶证离线授权申请方法，打开https://console.bce.baidu.com/ai-engine/old/#/ai/ocr/offline/index 点行驶证识别，使用离线授权方法申请（不会请看百度视频教程），申请到授权后，替换到x64/Release/license/
+#### 百度行驶证离线授权申请方法，打开https://console.bce.baidu.com/ai-engine/old/#/ai/ocr/offline/index 点行驶证识别，使用离线授权方法申请（不会请看百度视频教程），申请到授权后，替换到x64/Release/license/
   ![图片](https://github.com/user-attachments/assets/34cf2344-f927-4689-bd4f-26518ebcf33e)
 
 
