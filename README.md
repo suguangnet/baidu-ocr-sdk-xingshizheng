@@ -24,8 +24,8 @@
 
 ---
 ### **环境安装** 
-- 下载x64 修改好的百度离线SDK，由于github上传受限，只能放到百度网盘上：识别行驶证x64.zip
-链接: https://pan.baidu.com/s/1YRf4JlRPmYc9khvJqquBiQ?pwd=pmt9 提取码: pmt9 ，解压放到程序根目录。或者下载vs2015 重新编译生成x64也可以。
+- 下载x64 修改好的百度离线SDK，由于远程仓库上传受限，只能放到百度网盘上：识别行驶证x64.zip
+链接: https://pan.baidu.com/s/1YRf4JlRPmYc9khvJqquBiQ?pwd=pmt9 提取码: pmt9 ，解压放到程序根目录。或者联系作者要更改后的x64源代码（因超出远程仓库限制未上传）
 - 安装Python库：tkinterdnd2==0.4.2
 
 ---
